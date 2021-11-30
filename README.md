@@ -4,7 +4,7 @@
 
 # Program execution
 
-FizzBuzzのディレクトリに移動
+Fizz_Buzzのディレクトリに移動
 
 ```
 cd Fizz_Buzz
