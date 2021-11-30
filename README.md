@@ -7,7 +7,7 @@
 FizzBuzzのディレクトリに移動
 
 ```
-cd FizzBuzz
+cd Fizz_Buzz
 ```
 
 ## 問題1
